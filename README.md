@@ -13,8 +13,6 @@ This project was built as a way to brush up on my development skills after a bre
 - 💡 Clean UI using custom components
 - 🎯 Built with React and Vite
 
----
-
 
 ---
 
@@ -24,5 +22,5 @@ This project was built as a way to brush up on my development skills after a bre
 
 ```bash
 git clone https://github.com/your-username/user-profile-analyzer.git
-cd user-profile-analyzer
+cd user-profile-analyzer 
 
